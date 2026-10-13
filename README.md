@@ -28,4 +28,4 @@ Sou focado em **engenharia de confiabilidade, auditoria de código e refatoraç�
 ---
 📫 *Quer conversar sobre auditoria de código ou refatoração de projetos? Entre em contato comigo por e-mail: pedro.gabri2914@gmail.com*
 
-![Snake animation](https://githubusercontent.com)
+[![Minhas Tecnologias](https://skillicons.dev)](https://skillicons.dev)
