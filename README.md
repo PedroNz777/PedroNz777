@@ -23,17 +23,21 @@ Sou focado em engenharia de confiabilidade, auditoria de código e refatoração
 
 ### 💻 Tecnologias & Ferramentas
 
-[![Minhas Tecnologias](https://skillicons.dev)](https://skillicons.dev)
+<div id="badges">
+  <img src="https://shields.io" alt="JavaScript"/>
+  <img src="https://shields.io" alt="TypeScript"/>
+  <img src="https://shields.io" alt="Python"/>
+  <img src="https://shields.io" alt="PostgreSQL"/>
+  <img src="https://shields.io" alt="Redis"/>
+  <img src="https://shields.io" alt="Jest"/>
+  <img src="https://shields.io" alt="Git"/>
+</div>
+
+<br/>
 
 *   **Linguagens:** JavaScript • TypeScript • Python
 *   **Banco de Dados & Cache:** PostgreSQL • Redis
 *   **Conceitos:** Clean Code • TDD (Test-Driven Development) • Análise Estática com IA
-
----
-
-### 📊 Minhas Estatísticas
-
-![Estatísticas do GitHub](https://vercel.app)
 
 ---
 
