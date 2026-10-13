@@ -33,9 +33,6 @@ Sou focado em **Engenharia de Confiabilidade**, **Auditoria de Código** e **Ref
 *   **Metodologias & Conceitos:** Clean Code • TDD (Test-Driven Development) • Análise Estática com IA • Engenharia de Confiabilidade
 
 ―
+###📫 Contato
 
-### 📬 Vamos nos conectar?
-
-> 📧 **E-mail:** [pedro.gabri2914@gmail.com](mailto:pedro.gabri2914@gmail.com)
-> 
-> Se você quer conversar sobre auditoria de código, segurança de sistemas, cobertura de testes ou refatoração avançada de projetos, fique à vontade para me enviar uma mensagem!
+*    ##Se você quer conversar sobre auditoria de código, segurança, suítes de testes ou refatoração avançada em seus projetos, envie-me uma mensagem por e-mail: pedro.gabri2914@gmail.com
