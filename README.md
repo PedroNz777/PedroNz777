@@ -23,8 +23,6 @@ Sou focado em engenharia de confiabilidade, auditoria de código e refatoração
 
 ### 💻 Tecnologias & Ferramentas
 
-Aqui estão as principais ferramentas e linguagens que utilizo no meu dia a dia:
-
 [![Minhas Tecnologias](https://skillicons.dev)](https://skillicons.dev)
 
 *   **Linguagens:** JavaScript • TypeScript • Python
@@ -35,12 +33,10 @@ Aqui estão as principais ferramentas e linguagens que utilizo no meu dia a dia:
 
 ### 📊 Minhas Estatísticas
 
-Abaixo você pode acompanhar um resumo automático das minhas atividades de código no GitHub:
-
 ![Estatísticas do GitHub](https://vercel.app)
 
 ---
 
 ### 📬 Vamos nos conectar?
 
-*   Quer conversar sobre auditoria de código ou refatoração de projetos? Entre em contato comigo por e-mail: **pedro.gabri2914@gmail.com**
+*   Quer conversar sobre auditoria de código ou refatoração de projetos? Entre em contato comigo por e-mail: [pedro.gabri2914@gmail.com](mailto:pedro.gabri2914@gmail.com)
