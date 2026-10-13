@@ -23,15 +23,7 @@ Sou focado em engenharia de confiabilidade, auditoria de código e refatoração
 
 ### 💻 Tecnologias & Ferramentas
 
-<div id="badges">
-  <img src="https://shields.io" alt="JavaScript"/>
-  <img src="https://shields.io" alt="TypeScript"/>
-  <img src="https://shields.io" alt="Python"/>
-  <img src="https://shields.io" alt="PostgreSQL"/>
-  <img src="https://shields.io" alt="Redis"/>
-  <img src="https://shields.io" alt="Jest"/>
-  <img src="https://shields.io" alt="Git"/>
-</div>
+![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![Python](https://shields.io) ![PostgreSQL](https://shields.io) ![Redis](https://shields.io) ![Jest](https://shields.io) ![Git](https://shields.io)
 
 <br/>
 
